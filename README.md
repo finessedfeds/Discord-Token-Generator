@@ -15,7 +15,7 @@
 </div>
 
 ### Features
-* Autojoin discord servers
+* Auto join discord servers
 * 200+ PFPS
 * User friendly interface
 * Automated Phone verification
