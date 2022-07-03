@@ -31,4 +31,4 @@
 
 ### Contact
 View my contact information on my [website](https://duh.vbin.cc/)
-Or contact me on [telegram(https://t.me/finessedfeds)
+Or contact me on [telegram](https://t.me/finessedfeds)
