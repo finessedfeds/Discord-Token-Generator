@@ -1,9 +1,4 @@
-# Discord-Token-Generator
-Discord token generator working 2022
-
----------------------------------------
-  
-<br/>
+  <br/>
 <div align="center">
   <a href="https://github.com/WeLoveYouDuh/Discord-Token-Generator">
     <img src="https://i.imgur.com/9l4pHEN.png" alt="Logo" width="120" height="120">
