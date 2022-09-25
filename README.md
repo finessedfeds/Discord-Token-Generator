@@ -14,6 +14,14 @@
   </p>
 </div>
 
+---------------------------------------
+
+### Updates
+* 9/25/22 - Working joiner inside of the generator
+* 8/12/22 - HCaptcha Passer/Bypass
+
+---------------------------------------
+
 ### Features
 * Auto join discord servers
 * 200+ PFPS
